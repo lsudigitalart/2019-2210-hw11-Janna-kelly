@@ -1,0 +1,521 @@
+PARK ID,PARK NAME,CLASSIFICATION,FULL ADDRESS,CITY,ZIP,RECREATION CENTER,FITNESS CENTER,STADIUM,ADULT LEISURE PROGRAM,PLAYGOUND,RESTROOM,SWIMMING POOL,SPRAY PAD,AQUATIC CENTER,INDOOR BASKETBALL,OUTDOOR BASKETBALL,BASEBALL UNLIGHTED,BASEBALL LIGHTED,SOCCER FIELD,RUGBY FIELD,INDOOR TENNIS COURT,TENNIS UNLIGHTED,TENNIS LIGHTED,GOLF COURSE 9 HOLE,GOLF COURSE 18 HOLE,DISC GOLF,BOCCE BALL,CROQUET,FISHING LAKE,DOG PARK,SKATE PARK,CYCLING VELODROME,BMX TRACK,MOUNTAIN BIKE TRAIL,WALKING PATH SURFACED,WALKING LOOP,EQUESTRIAN,ARCHERY  RANGE,AIRGUN RANGE,GEOLOCATION
+10,Baker Playground,Neighborhood,3439 GROOM RD,BAKER,70714,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3439 GROOM RD
+BAKER 70714
+(30.587915, -91.164094)"
+100,Lanier Drive Park,Neighborhood,3901 LANIER DR,BATON ROUGE,70812,,,,,1,,,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,"3901 LANIER DR
+BATON ROUGE 70812"
+168,Terrace Street Park,Neighborhood,701 TERRACE ST,BATON ROUGE,70802,1,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,"701 TERRACE ST
+BATON ROUGE 70802
+(30.436234, -91.183111)"
+112,Magnolia Mound Plantation,Neighborhood,2161 NICHOLSON DR,BATON ROUGE,70802,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"2161 NICHOLSON DR
+BATON ROUGE 70802
+(30.426591, -91.187958)"
+117,Mayfair Park,Neighborhood,650 S SABINE DR,BATON ROUGE,70810,1,,,,1,,,,,,,1,,,,,3,,,,,,,,,,,,,,,,,,"650 S SABINE DR
+BATON ROUGE 70810
+(30.375838, -91.107876)"
+154,Santa Maria Golf Course,Golf Course,18460 SANTA MARIA PKWY,BATON ROUGE,70809,1,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,"18460 SANTA MARIA PKWY
+BATON ROUGE 70809
+(30.341042, -91.009044)"
+165,Sugarland Park,Neighborhood,4700 SUGAR LAND DR,BATON ROUGE,70814,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,"4700 SUGAR LAND DR
+BATON ROUGE 70814
+(30.491639, -91.040299)"
+62,Flannery Road Park,Neighborhood,801 S FLANNERY RD,BATON ROUGE,70815,1,,,,1,1,,,,1,,,2,1,,,2,,,,,,,,,,,,,,,,,,"801 S FLANNERY RD
+BATON ROUGE 70815
+(30.450393, -91.034668)"
+59,Expressway Park,Neighborhood,935 S 11TH ST,BATON ROUGE,70802,1,,,,1,1,,,,1,2,1,,,,,,,,,,,,,,,,,,,,,,,"935 S 11TH ST
+BATON ROUGE 70802
+(30.438845, -91.177737)"
+113,Manchac Park,Neighborhood,19010 JEFFERSON HWY,BATON ROUGE,70817,,,,,1,,,,,,1,,2,,,,1,,,,,,,,,,,,,,,,,,"19010 JEFFERSON HWY
+BATON ROUGE 70817
+(30.347347, -90.98576)"
+71,Goodwood Park,Neighborhood,6025 SEVENOAKS AVE,BATON ROUGE,70806,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,"6025 SEVENOAKS AVE
+BATON ROUGE 70806
+(30.442857, -91.129228)"
+56,Edward Avenue Park,Neighborhood,3000 EDWARD AVE,BATON ROUGE,70808,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3000 EDWARD AVE
+BATON ROUGE 70808
+(30.429511, -91.157503)"
+130,North Sherwood Forest Community Park,Community,3140 N SHERWOOD FOREST DR,BATON ROUGE,70814,1,1,,1,1,1,,,,,,,1,,,,,,,,,,,1,,,,,,1,,,,,"3140 N SHERWOOD FOREST DR
+BATON ROUGE 70814
+(30.478322, -91.058278)"
+51,Drusilla Lane Park,Neighborhood,2546 DRUSILLA LN,BATON ROUGE,70809,1,,,,1,,,,,,,,1,,,,1,,,,,,,,,,,,,,,,,,"2546 DRUSILLA LN
+BATON ROUGE 70809
+(30.427214, -91.084201)"
+107,Longridge Park,Neighborhood,12127 LONGRIDGE AVE,BATON ROUGE,70816,,,,,1,,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,"12127 LONGRIDGE AVE
+BATON ROUGE 70816
+(30.421752, -91.046857)"
+8,Avenue F Park,Neighborhood,4790 AVENUE F,ZACHARY,70791,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4790 AVENUE F
+ZACHARY 70791
+(30.658809, -91.150926)"
+61,Farr Park Equestrian Center,Special Facility,6400 RIVER RD,BATON ROUGE,70820,1,,,1,1,1,,,,1,,,,,,,,,,,,,,,,,,,,,,1,,,"6400 RIVER RD
+BATON ROUGE 70820
+(30.387434, -91.213074)"
+120,Milford Wampold Memorial Park,Neighborhood,901 STANFORD AVE,BATON ROUGE,70808,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,"901 STANFORD AVE
+BATON ROUGE 70808
+(30.408402, -91.163438)"
+65,Forest Community Park,Community,13900 S HARRELL'S FERRY RD,BATON ROUGE,70816,1,,,,1,1,,1,,1,,,3,,,,,11,,,,,,1,1,,,,,1,1,,,,"13900 S HARRELL'S FERRY RD
+BATON ROUGE 70816
+(30.430273, -91.027353)"
+166,"T. D. Bickham, Jr. Park",Conservation,6850 PETTIT RD,BAKER,70714,1,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,"6850 PETTIT RD
+BAKER 70714
+(30.579242, -91.118671)"
+41,Comite River Park,Conservation,8900 HOOPER RD,BATON ROUGE,70811,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,"8900 HOOPER RD
+BATON ROUGE 70811"
+89,Jefferson Street Park,Neighborhood,3503 JEFFERSON ST,BAKER,70714,,,,,,1,,,,,,,1,1,,,1,,,,,,,,,,,,,,,,,,"3503 JEFFERSON ST
+BAKER 70714
+(30.5906, -91.161631)"
+90,Jefferson Terrace Park,Neighborhood,10282 CAL RD,BATON ROUGE,70809,,,,,1,1,,,,,,1,,,,,2,,,,,,,,,,,,,,,,,,"10282 CAL RD
+BATON ROUGE 70809
+(30.400903, -91.070068)"
+38,Cohn Arboretum,Special Facility,12206 FOSTER RD,BATON ROUGE,70811,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,"12206 FOSTER RD
+BATON ROUGE 70811
+(30.557624, -91.120395)"
+158,Sharp Road Park,Neighborhood,501 SHARP RD,BATON ROUGE,70815,1,,,1,1,1,,,,,,,2,,,,2,,,,,,,,,,,,,,,,,,"501 SHARP RD
+BATON ROUGE 70815
+(30.449757, -91.07049)"
+108,Louisiana Park,Neighborhood,6998 ANTIOCH RD,BATON ROUGE,70817,,,,,1,1,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,"6998 ANTIOCH RD
+BATON ROUGE 70817
+(30.388134, -91.007368)"
+72,Greenwell Springs Park,Neighborhood,7550 SHADY PARK DR,GREENWELL SPRINGS,70739,,,,,1,1,,,,,,,1,,,,1,,,,,,,,,,,,,,,1,,,"7550 SHADY PARK DR
+GREENWELL SPRINGS 70739
+(30.521856, -91.009974)"
+19,Blackwater Conservation Area,Conservation,9385 BLACKWATER RD,BAKER,70714,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,"9385 BLACKWATER RD
+BAKER 70714
+(30.534362, -91.086849)"
+152,Samuel D'Agostino Park,Neighborhood,10300 EL SCOTT AVE,BATON ROUGE,70811,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,"10300 EL SCOTT AVE
+BATON ROUGE 70811
+(30.500051, -91.073456)"
+173,Warren O. Watson Park,Neighborhood,2700 TROTTER DR,BAKER,70714,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"2700 TROTTER DR
+BAKER 70714
+(30.604106, -91.15327)"
+163,Sports Academy,Special Facility,1002 LAUREL ST,BATON ROUGE,70802,1,,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,"1002 LAUREL ST
+BATON ROUGE 70802
+(30.450637, -91.179311)"
+159,South Harrell's Ferry Road Park,Conservation,15750 S HARRELL'S FERRY RD,BATON ROUGE,70816,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15750 S HARRELL'S FERRY RD
+BATON ROUGE 70816
+(30.426892, -91.014543)"
+157,Seventh Street Park,Neighborhood,639 N 7TH ST,BATON ROUGE,70802,,,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,"639 N 7TH ST
+BATON ROUGE 70802
+(30.453448, -91.183573)"
+97,Kolby Park,Neighborhood,10620 CENTRAL PINE DR,CENTRAL,70818,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"10620 CENTRAL PINE DR
+CENTRAL 70818
+(30.545177, -91.021348)"
+47,Dayton Street Park,Neighborhood,2404 DAYTON ST,BATON ROUGE,70805,,,,,1,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,"2404 DAYTON ST
+BATON ROUGE 70805
+(30.488063, -91.166205)"
+137,Perkins Road Community Park,Community,7122 PERKINS RD,BATON ROUGE,70808,1,,1,,2,1,,,,1,,,3,,,,2,,,,,,,1,,1,1,1,,1,1,,,,"7122 PERKINS RD
+BATON ROUGE 70808
+(30.397948, -91.114163)"
+32,Central Sports Park,Special Facility,10501 LOVETT RD,CENTRAL,70818,,,,,,,,,,,,,5,,,,,,,,,,,1,,,,,,,1,,,,"10501 LOVETT RD
+CENTRAL 70818
+(30.537635, -91.065432)"
+45,Cortana Place Park,Neighborhood,9300 CORTANA PL,BATON ROUGE,70815,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"9300 CORTANA PL
+BATON ROUGE 70815
+(30.461258, -91.091979)"
+88,Jefferson Highway Park,Neighborhood,8133 JEFFERSON HWY,BATON ROUGE,70809,1,,,1,1,1,,,,,1,,,,,,,2,,,,,,,,,,,,,,,,,"8133 JEFFERSON HWY
+BATON ROUGE 70809
+(30.422974, -91.102929)"
+116,Mary Ruth Park,Neighborhood,8808 MARY RUTH AVE,BATON ROUGE,70810,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"8808 MARY RUTH AVE
+BATON ROUGE 70810
+(30.386113, -91.111457)"
+92,Kathy Drive Park,Neighborhood,1801 KATHY DR,BATON ROUGE,70816,1,,,,1,4,,,,1,1,,3,1,,,,,,,,,,,,,,,,,,,,,"1801 KATHY DR
+BATON ROUGE 70816
+(30.443249, -91.014462)"
+134,Parklawn Park,Neighborhood,12228 PARKLAWN AVE,BATON ROUGE,70816,1,,,1,1,,,,,,,1,,,,,2,,,,,,1,,,,,,,,,,,,"12228 PARKLAWN AVE
+BATON ROUGE 70816
+(30.404021, -91.044949)"
+104,Ligon Road Park,Neighborhood,21600 LIGON RD,ZACHARY,70791,,,,,1,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,"21600 LIGON RD
+ZACHARY 70791
+(30.671966, -91.222636)"
+40,College Town Park,Neighborhood,251 AMHERST AVE,BATON ROUGE,70808,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"251 AMHERST AVE
+BATON ROUGE 70808
+(30.404782, -91.171364)"
+33,Chamberlain Street Park,Neighborhood,16900 CHAMBERLAIN AVE,BAKER,70714,,,,,1,1,,,,,,2,,,,,1,,,,,,,,,,,,,,,,,,"16900 CHAMBERLAIN AVE
+BAKER 70714
+(30.60553, -91.182748)"
+69,Gayosa Street Park,Neighborhood,2129 GAYOSA ST,BATON ROUGE,70802,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,"2129 GAYOSA ST
+BATON ROUGE 70802
+(30.454205, -91.166618)"
+54,East Polk Street Park,Neighborhood,1700 E POLK ST,BATON ROUGE,70802,,,,,1,1,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,"1700 E POLK ST
+BATON ROUGE 70802
+(30.427214, -91.170884)"
+63,Fiesta Park,Neighborhood,1000 FIESTA CT,BATON ROUGE,70815,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1000 FIESTA CT
+BATON ROUGE 70815
+(30.459672, -91.07456)"
+123,Monte Sano Park,Neighborhood,2727 GREENWELL ST,BATON ROUGE,70805,1,,,,1,,,,,1,,1,1,,,,1,,,,,,,,,,,,,,,,,,"2727 GREENWELL ST
+BATON ROUGE 70805
+(30.502733, -91.162783)"
+145,Rio Drive Park,Neighborhood,6900 RIO DR,BATON ROUGE,70812,,,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,"6900 RIO DR
+BATON ROUGE 70812
+(30.503751, -91.121395)"
+110,Madison Avenue Park,Neighborhood,1820 MADISON AVE,BATON ROUGE,70802,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,"1820 MADISON AVE
+BATON ROUGE 70802
+(30.467382, -91.170218)"
+181,Yatasi Drive Park,Neighborhood,16941 YATASI DR,GREENWELL SPRINGS,70739,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,"16941 YATASI DR
+GREENWELL SPRINGS 70739"
+15,Beaver Creek Park and Golf Course,Golf Course,22600 BEAVER CREEK BLVD,ZACHARY,70791,,,,,1,2,,,,,,,,,,,1,,,1,,,,,,,,,,,,,,,"22600 BEAVER CREEK BLVD
+ZACHARY 70791"
+169,Thirty-Ninth Street Park,Neighborhood,3451 39TH ST,ZACHARY,70791,,,,,1,1,,,,,,1,,,,,,2,,,,,,,,,,,,,,,,,"3451 39TH ST
+ZACHARY 70791
+(30.638857, -91.1657)"
+96,Kinchloe Lloyd Baker Park,Conservation,20821 GREENWELL SPRINGS RD,GREENWELL SPRINGS,70739,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"20821 GREENWELL SPRINGS RD
+GREENWELL SPRINGS 70739
+(30.552424, -90.982669)"
+20,Blueberry Street Park,Neighborhood,1870 N ARDENWOOD DR,BATON ROUGE,70806,1,,,,1,1,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,"1870 N ARDENWOOD DR
+BATON ROUGE 70806
+(30.465843, -91.128947)"
+119,Memorial Sports Complex,Special Facility,1702 FOSS ST,BATON ROUGE,70802,,,1,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,"1702 FOSS ST
+BATON ROUGE 70802
+(30.459777, -91.172884)"
+175,Wenonah Street Park,Neighborhood,3300 WENONAH ST,BATON ROUGE,70805,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3300 WENONAH ST
+BATON ROUGE 70805
+(30.478095, -91.164164)"
+153,Sandy Creek Community Park,Community,21572 CARSON RD,GREENWELL SPRINGS,70739,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21572 CARSON RD
+GREENWELL SPRINGS 70739
+(30.668811, -90.960714)"
+42,Congress Park,Neighborhood,5100 CONGRESS BLVD,BATON ROUGE,70808,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,"5100 CONGRESS BLVD
+BATON ROUGE 70808
+(30.418657, -91.133325)"
+95,Kerr Warren Park,Neighborhood,4100 GERONIMO ST,BATON ROUGE,70805,1,,,,1,,,,,1,,1,,,,,2,,,,,,,,,,,,,,,,,,"4100 GERONIMO ST
+BATON ROUGE 70805
+(30.486832, -91.161971)"
+3,Alaska Street Park,Neighborhood,3014 ALASKA ST,BATON ROUGE,70802,1,,,,1,,,,,1,1,,1,,,,,,,,,,,,,,,,,,,,,,"3014 ALASKA ST
+BATON ROUGE 70802
+(30.420821, -91.184235)"
+26,Burbank Conservation Area,Conservation,8858 BURBANK DR,BATON ROUGE,70820,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"8858 BURBANK DR
+BATON ROUGE 70820
+(30.362503, -91.128799)"
+24,Brown Heights Park,Neighborhood,15206 PLANK RD,BAKER,70714,,,,,1,,,,,,,,1,,,,2,,,,,,,,,,,,,,,,,,"15206 PLANK RD
+BAKER 70714
+(30.586059, -91.125013)"
+155,Santa Maria Park,Neighborhood,18460 SANTA MARIA PKWY,BATON ROUGE,70809,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,"18460 SANTA MARIA PKWY
+BATON ROUGE 70809
+(30.341042, -91.009044)"
+118,Meadow Park,Neighborhood,6951 MEADOW PARK AVE,BATON ROUGE,70810,,,,,1,,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,"6951 MEADOW PARK AVE
+BATON ROUGE 70810
+(30.372194, -91.069272)"
+122,Milton J. Womack Park,Special Facility,6201 FLORIDA BLVD,BATON ROUGE,70806,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"6201 FLORIDA BLVD
+BATON ROUGE 70806
+(30.451316, -91.126081)"
+36,J.S. Clark Park and Golf Course,Golf Course,2301 THOMAS RD,BATON ROUGE,70807,,,,,1,,,,,,,,,2,,,,,1,,,,,,,,,,,,,,,,"2301 THOMAS RD
+BATON ROUGE 70807
+(30.558444, -91.168906)"
+83,Independence Community Park,Community,7505 INDEPENDENCE BLVD,BATON ROUGE,70806,1,,,1,1,1,,,,,,,4,7,,2,,11,,,,1,,,,,,,,,,,,,"7505 INDEPENDENCE BLVD
+BATON ROUGE 70806
+(30.44536, -91.111038)"
+172,Tuscarora Street Park,Neighborhood,4200 TUSCARORA ST,BATON ROUGE,70805,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4200 TUSCARORA ST
+BATON ROUGE 70805
+(30.488105, -91.165304)"
+70,Gentilly Court Park,Neighborhood,13750 GENTILLY CT,BATON ROUGE,70810,,,,,1,,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,"13750 GENTILLY CT
+BATON ROUGE 70810
+(30.370223, -91.063545)"
+131,North Street Park,Neighborhood,4100 NORTH ST,BATON ROUGE,70806,1,,,,1,,,,,1,,,1,,,,,,,,,,,,,,,,,,,,,,"4100 NORTH ST
+BATON ROUGE 70806
+(30.453766, -91.144829)"
+125,Nairn Park,Neighborhood,2800 NAIRN DR,BATON ROUGE,70808,1,,,,1,,,,,1,1,1,1,,,,,,,,,,,,,,,,,1,1,,,,"2800 NAIRN DR
+BATON ROUGE 70808
+(30.422995, -91.146268)"
+57,Erich and Lea Sternberg Park,Neighborhood,8715 ROUND OAK DR,BATON ROUGE,70817,,,,,1,,,,,,,1,,1,,,1,,,,,,,,,,,,,,,,,,"8715 ROUND OAK DR
+BATON ROUGE 70817
+(30.370183, -90.999456)"
+174,Webb Memorial Park and Golf Course,Golf Course,1351 COUNTRY CLUB DR,BATON ROUGE,70806,1,1,,1,1,1,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,"1351 COUNTRY CLUB DR
+BATON ROUGE 70806
+(30.436635, -91.141961)"
+58,Evangeline Street Park,Neighborhood,4201 EVANGELINE ST,BATON ROUGE,70805,,,,,1,,,,,,1,,1,,,,,,,,,,,,,,,,,1,1,,,,"4201 EVANGELINE ST
+BATON ROUGE 70805
+(30.492945, -91.148342)"
+87,James Watson Park,Neighborhood,10555 N PARK AVE,BATON ROUGE,70811,,,,,1,1,,,,,1,1,,,,,2,,,,,,,,,,,,,,,,,,"10555 N PARK AVE
+BATON ROUGE 70811
+(30.545374, -91.117628)"
+180,Wray Park,Neighborhood,9801 RIDGEWOOD DR,BATON ROUGE,70814,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"9801 RIDGEWOOD DR
+BATON ROUGE 70814"
+176,West Brookstown Park,Neighborhood,4500 E BROOKSTOWN DR,BATON ROUGE,70805,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,"4500 E BROOKSTOWN DR
+BATON ROUGE 70805
+(30.492034, -91.12831)"
+161,Spain Street Park,Neighborhood,2101 SPAIN ST,BATON ROUGE,70806,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,"2101 SPAIN ST
+BATON ROUGE 70806
+(30.44489, -91.166629)"
+115,Mary J. Lands Park,Neighborhood,802 N 30TH ST,BATON ROUGE,70802,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,"802 N 30TH ST
+BATON ROUGE 70802
+(30.455781, -91.158691)"
+133,Palomino Drive Park,Neighborhood,14100 PALOMINO DR,GREENWELL SPRINGS,70739,1,,,,1,,,,,,,,,,,,,8,,,,,,1,,,,,,,,,,,"14100 PALOMINO DR
+GREENWELL SPRINGS 70739
+(30.574991, -91.011592)"
+85,Jackson Community Park,Community,12250 SULLIVAN RD,CENTRAL,70818,1,,,,1,4,,,,,,,1,1,,,3,,,,,,,,,,,,,,,,,,"12250 SULLIVAN RD
+CENTRAL 70818
+(30.558812, -91.040128)"
+91,Jones Creek Park,Neighborhood,12300 OLD HAMMOND HWY,BATON ROUGE,70816,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"12300 OLD HAMMOND HWY
+BATON ROUGE 70816
+(30.44131, -91.042472)"
+43,Convention Street Park,Neighborhood,717 CONVENTION ST,BATON ROUGE,70801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"717 CONVENTION ST
+BATON ROUGE 70801"
+34,Church Street Park,Neighborhood,3210 CHURCH ST,ZACHARY,70791,1,,,1,1,1,,,,1,,,1,,,,,,,,,,,,,,,,,,,,,,"3210 CHURCH ST
+ZACHARY 70791
+(30.651676, -91.169348)"
+75,Hamilton Avenue Park,Neighborhood,16200 HAMILTON AVE,BATON ROUGE,70819,1,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,"16200 HAMILTON AVE
+BATON ROUGE 70819
+(30.481677, -91.007306)"
+109,Lovett Road Park,Neighborhood,13443 LOVETT RD,CENTRAL,70818,1,,,1,1,6,,,,1,,,10,,,,2,,,,,,,,,,,,,,,,,,"13443 LOVETT RD
+CENTRAL 70818
+(30.523458, -91.039258)"
+94,Kernan Avenue Park,Neighborhood,333 KERNAN AVE,BATON ROUGE,70802,1,,,,1,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,"333 KERNAN AVE
+BATON ROUGE 70802"
+23,Brookfield Avenue Park,Neighborhood,17650 BROOKFIELD AVE,BATON ROUGE,70817,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,"17650 BROOKFIELD AVE
+BATON ROUGE 70817
+(30.358224, -91.000308)"
+52,Duchess Drive Park,Neighborhood,1701 DUCHESS DR,BATON ROUGE,70815,,,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,"1701 DUCHESS DR
+BATON ROUGE 70815
+(30.468875, -91.040649)"
+178,Woodlawn Walking Trail,Neighborhood,14939 TIGER BEND RD,BATON ROUGE,70817,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14939 TIGER BEND RD
+BATON ROUGE 70817
+(30.3913, -91.016163)"
+48,Dover Street Park,Neighborhood,7300 DOVER ST,BATON ROUGE,70812,,,,,1,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,"7300 DOVER ST
+BATON ROUGE 70812
+(30.49948, -91.116978)"
+160,South Magnolia Park,Neighborhood,2409 S MAGNOLIA DR,BAKER,70714,,,,,1,1,,,,,,,1,,,,2,,,,,,,,,,,,,,,,,,"2409 S MAGNOLIA DR
+BAKER 70714
+(30.57661, -91.17808)"
+44,Corporate Parkway,Neighborhood,333 E GRANT ST,BATON ROUGE,70802,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"333 E GRANT ST
+BATON ROUGE 70802
+(30.423117, -91.177956)"
+142,Railey Roshto Park,Neighborhood,11207 NORWAY PINE DR,GREENWELL SPRINGS,70739,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"11207 NORWAY PINE DR
+GREENWELL SPRINGS 70739
+(30.553132, -91.002268)"
+139,Plank Road Park,Neighborhood,19550 PLANK RD,ZACHARY,70791,1,,,1,1,,,,,1,,,4,,,,,,,,,,,,,,,,,,,,,,"19550 PLANK RD
+ZACHARY 70791
+(30.640098, -91.108018)"
+138,Pinehurst Park,Neighborhood,13888 PINEHURST AVE,BATON ROUGE,70817,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"13888 PINEHURST AVE
+BATON ROUGE 70817
+(30.380922, -91.031405)"
+183,Dumas Memorial Golf Course,Golf Course,3400 LAVEY LN,BAKER,70714,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,"3400 LAVEY LN
+BAKER 70714
+(30.575345, -91.16583)"
+27,Burbank Soccer Complex,Special Facility,12400 BURBANK DR,BATON ROUGE,70810,,,,,,4,,,,,,3,2,22,,,,,,,,,,1,1,,,,,,,,,,"12400 BURBANK DR
+BATON ROUGE 70810
+(30.34903, -91.096346)"
+135,Parkview Park,Neighborhood,9000 N PARKVIEW DR,BATON ROUGE,70815,,,,,1,,,,,,1,1,,,,,,2,,,,,,,,,,,,1,1,,,,"9000 N PARKVIEW DR
+BATON ROUGE 70815
+(30.446082, -91.090565)"
+77,Hartley/Vey Park at Gardere,Neighborhood,1702 GARDERE LN,BATON ROUGE,70820,,,,,,2,,,,,,,3,2,,,,,,,,,,,,,,,,,,,1,,"1702 GARDERE LN
+BATON ROUGE 70820
+(30.353359, -91.128886)"
+170,Thomas Maher Park,Neighborhood,8200 OAK VIEW DR,BATON ROUGE,70814,,,,,1,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,"8200 OAK VIEW DR
+BATON ROUGE 70814
+(30.484384, -91.103697)"
+103,Leo and Murlin Willie Park,Neighborhood,4101 STUMBERG LN,BATON ROUGE,70817,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4101 STUMBERG LN
+BATON ROUGE 70817"
+93,Kendalwood Road Park,Conservation,24700 KENDALWOOD RD,BATON ROUGE,70817,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"24700 KENDALWOOD RD
+BATON ROUGE 70817
+(30.350499, -90.912959)"
+156,Scotlandville Parkway,Neighborhood,3200 HARDING BLVD,BATON ROUGE,70807,,,,,2,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,"3200 HARDING BLVD
+BATON ROUGE 70807
+(30.521274, -91.158998)"
+136,Pawnee Street Park,Neighborhood,2100 SCENIC HWY,BATON ROUGE,70802,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"2100 SCENIC HWY
+BATON ROUGE 70802
+(30.46656, -91.167969)"
+81,Howell Community Park,Community,5509 WINBOURNE AVE,BATON ROUGE,70805,1,,,,1,1,1,,,1,,,1,,,,,,,1,,,,,,,,,,1,1,,,,"5509 WINBOURNE AVE
+BATON ROUGE 70805
+(30.479215, -91.132644)"
+25,Buchanan Park,Neighborhood,2300 MISSOURI ST,BATON ROUGE,70802,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,"2300 MISSOURI ST
+BATON ROUGE 70802
+(30.425408, -91.172149)"
+35,City-Brooks Community Park,Community,1515 DALRYMPLE DR,BATON ROUGE,70808,,,,1,1,1,,1,,,0,,,,,,7,7,1,,,,1,1,1,,,,,1,,,,,"1515 DALRYMPLE DR
+BATON ROUGE 70808
+(30.434252, -91.16845)"
+64,Flonacher Road Park,Neighborhood,864 FLONACHER RD,ZACHARY,70791,1,,,,1,1,,,,,1,,,6,,,,,,,1,,,1,,,,,,1,,,,,"864 FLONACHER RD
+ZACHARY 70791
+(30.66624, -91.228517)"
+79,Highland Road Community Park,Community,14024 HIGHLAND RD,BATON ROUGE,70810,1,,,,1,1,,,,1,,2,2,1,1,,,19,,,1,,,1,,,,,,,,,,,"14024 HIGHLAND RD
+BATON ROUGE 70810
+(30.34784, -91.075616)"
+21,Bluebonnet Swamp Nature Center,Conservation,10503 N OAK HILLS PKWY,BATON ROUGE,70810,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"10503 N OAK HILLS PKWY
+BATON ROUGE 70810
+(30.370071, -91.104334)"
+164,Starwood Court Park,Neighborhood,7900 STARWOOD CT,BATON ROUGE,70820,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"7900 STARWOOD CT
+BATON ROUGE 70820
+(30.354584, -91.140172)"
+11,Baker Recreation Center,Neighborhood,1420 ALABAMA AVE,BAKER,70714,1,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,"1420 ALABAMA AVE
+BAKER 70714"
+7,Antioch Boulevard Park,Neighborhood,6229 ANTIOCH BLVD,BATON ROUGE,70817,1,,,1,1,,,,,1,,,1,,,,2,,,,,,,,,,,,,,,,,,"6229 ANTIOCH BLVD
+BATON ROUGE 70817
+(30.393519, -91.002156)"
+114,Maplewood Park,Neighborhood,7950 MAPLEWOOD DR,BATON ROUGE,70812,1,,,,1,,,,,1,1,1,,,,,1,,,,,,,,,,,,,,,,,,"7950 MAPLEWOOD DR
+BATON ROUGE 70812
+(30.507701, -91.112059)"
+12,Baringer Road Park,Neighborhood,7401 BARINGER RD,BATON ROUGE,70817,1,,,,1,1,,,,,,1,,,,,2,,,,,,,,,,,,,,,,,,"7401 BARINGER RD
+BATON ROUGE 70817
+(30.384552, -91.019021)"
+146,Rita Street Park,Neighborhood,2315 RITA ST,ZACHARY,70791,,,,,1,1,,,,,,1,1,1,,,1,,,,,,,,,,,,,,,,,,"2315 RITA ST
+ZACHARY 70791
+(30.664318, -91.18111)"
+127,North 18th Street Park,Neighborhood,1801 GAYOSA ST,BATON ROUGE,70802,,,,,1,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,"1801 GAYOSA ST
+BATON ROUGE 70802
+(30.454097, -91.170536)"
+66,Fortune Addition Park,Neighborhood,5900 PEERLESS ST,BATON ROUGE,70811,,,,,1,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,"5900 PEERLESS ST
+BATON ROUGE 70811
+(30.516849, -91.132287)"
+167,Tams Drive Park,Neighborhood,11600 TAMS DR,BATON ROUGE,70815,,,,,1,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,"11600 TAMS DR
+BATON ROUGE 70815
+(30.466668, -91.054206)"
+105,Little Farms Park,Neighborhood,3754 LITTLE FARMS DR,ZACHARY,70791,,,,,1,1,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,"3754 LITTLE FARMS DR
+ZACHARY 70791
+(30.640804, -91.112145)"
+5,Alsen Park,Neighborhood,601 OLD RAFE MAYER RD,BATON ROUGE,70807,1,,,1,1,,,,,1,,2,,,,,2,,,,,,,,,,,,,1,1,,,,"601 OLD RAFE MAYER RD
+BATON ROUGE 70807
+(30.570797, -91.198195)"
+30,Cedar Ridge Avenue Park,Neighborhood,13300 CEDAR RIDGE AVE,BATON ROUGE,70817,1,,,1,1,1,,,,1,,,2,,,,,,,,,,,,,,,,,,,,,,"13300 CEDAR RIDGE AVE
+BATON ROUGE 70817
+(30.400899, -91.032078)"
+124,Myrtle Street Park,Neighborhood,5408 MYRTLE ST,BAKER,70714,,,,,1,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,"5408 MYRTLE ST
+BAKER 70714
+(30.578714, -91.143836)"
+150,Rue Lebouef Park,Neighborhood,11550 RUE LEBOUEF,BATON ROUGE,70810,,,,,1,,,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,"11550 RUE LEBOUEF
+BATON ROUGE 70810
+(30.369828, -91.091251)"
+6,Anna T. Jordan Community Park,Community,1750 STILT ST,BATON ROUGE,70807,1,,,1,1,1,1,,,1,,,3,,,,1,,,,,,1,,,,,,,1,1,,,,"1750 STILT ST
+BATON ROUGE 70807
+(30.527614, -91.17506)"
+106,Longfellow Park,Neighborhood,5201 LONGFELLOW DR,BATON ROUGE,70805,1,,,,1,1,,,,1,,,1,,,,,,,,,,,,,,,,,,,,,,"5201 LONGFELLOW DR
+BATON ROUGE 70805
+(30.497765, -91.157426)"
+141,Quarterhorse Drive Park,Neighborhood,23400-23500 UND QUARTER HORSE DR,ZACHARY,70791,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"23400-23500 UND QUARTER HORSE DR
+ZACHARY 70791"
+129,North Boulevard Park,Neighborhood,1640 NORTH BLVD,BATON ROUGE,70802,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1640 NORTH BLVD
+BATON ROUGE 70802
+(30.447663, -91.17223)"
+84,Industriplex Park,Neighborhood,10777 INDUSTRIPLEX BLVD,BATON ROUGE,70809,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"10777 INDUSTRIPLEX BLVD
+BATON ROUGE 70809"
+99,Lafitte Street Park,Neighborhood,400 LAFITTE DR,BATON ROUGE,70819,,,,,1,1,,,,,,,1,,,,1,,,,,,,,,,,,,,,,,,"400 LAFITTE DR
+BATON ROUGE 70819
+(30.458806, -91.028496)"
+39,Cohn Nature Preserve,Conservation,11332 FOSTER RD,BATON ROUGE,70811,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"11332 FOSTER RD
+BATON ROUGE 70811
+(30.550877, -91.114933)"
+143,Reames Road Park,Neighborhood,23223 REAMES RD,ZACHARY,70791,1,,,,1,1,,,,1,,,1,,,,1,,,,,,,,,,,,,,,,,,"23223 REAMES RD
+ZACHARY 70791
+(30.690453, -91.027428)"
+102,Leeward Drive Park,Neighborhood,5800 MENLO DR,BATON ROUGE,70808,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"5800 MENLO DR
+BATON ROUGE 70808
+(30.393011, -91.152648)"
+4,Alexander Street Park,Neighborhood,6000 ALEXANDER AVE,BATON ROUGE,70805,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"6000 ALEXANDER AVE
+BATON ROUGE 70805
+(30.504104, -91.1615)"
+14,Baywood Park,Neighborhood,20001 PRIDE-BAYWOOD RD,GREENWELL SPRINGS,70739,,,,,1,1,,,,,,,1,,,,1,,,,,,,,,,,,,,,,,,"20001 PRIDE-BAYWOOD RD
+GREENWELL SPRINGS 70739
+(30.711177, -90.914756)"
+31,Cedarcrest Park,Neighborhood,2490 SILVEREST AVE,BATON ROUGE,70816,1,,,,1,,,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,"2490 SILVEREST AVE
+BATON ROUGE 70816
+(30.428258, -91.072306)"
+121,Mills Avenue Park,Neighborhood,424 WOODPECKER ST,BATON ROUGE,70807,1,,,,1,,,,,1,,1,,,,,1,,,,,,,,,,,,,,,,,,"424 WOODPECKER ST
+BATON ROUGE 70807
+(30.534487, -91.19466)"
+177,Woodlawn Acres Park,Neighborhood,16600 WOODLAWN ACRES AVE,BATON ROUGE,70817,,,,,1,1,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,"16600 WOODLAWN ACRES AVE
+BATON ROUGE 70817
+(30.383674, -90.999547)"
+53,East Brookstown Park,Neighborhood,4300 E BROOKSTOWN DR,BATON ROUGE,70805,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4300 E BROOKSTOWN DR
+BATON ROUGE 70805
+(30.489561, -91.128239)"
+149,Roosevelt Street Park,Neighborhood,1011 W ROOSEVELT ST,BATON ROUGE,70802,,,,,1,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,"1011 W ROOSEVELT ST
+BATON ROUGE 70802
+(30.421537, -91.190072)"
+67,Forty-Eighth Street Park,Neighborhood,628 N 48TH ST,BATON ROUGE,70806,,,,,1,1,,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,"628 N 48TH ST
+BATON ROUGE 70806
+(30.455139, -91.141501)"
+101,Le Brent Avenue Park,Neighborhood,6401 LEBRENT AVE,BAKER,70714,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"6401 LEBRENT AVE
+BAKER 70714
+(30.565946, -91.127141)"
+60,Fairfax Park,Neighborhood,5300 S AFTON PKWY,BATON ROUGE,70806,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"5300 S AFTON PKWY
+BATON ROUGE 70806
+(30.453079, -91.135021)"
+29,Camelot Park,Neighborhood,3166 LANCELOT DR,BATON ROUGE,70816,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3166 LANCELOT DR
+BATON ROUGE 70816
+(30.424185, -91.043807)"
+2,Airline Highway Park,Special Facility,16072 AIRLINE HWY,BATON ROUGE,70817,,,,,1,1,,,,,,,4,,,,,,,,,,,,,,,,,,,,,1,"16072 AIRLINE HWY
+BATON ROUGE 70817
+(30.351546, -91.000065)"
+28,Cadillac Street Park,Neighborhood,6117 CADILLAC ST,BATON ROUGE,70811,1,,,,1,1,,,,1,,1,1,,,,,,,,,,,,,,,,,,,,,,"6117 CADILLAC ST
+BATON ROUGE 70811
+(30.518077, -91.128862)"
+148,Rollins Road Park,Neighborhood,5794 ROLLINS RD,ZACHARY,70791,,,,,1,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,"5794 ROLLINS RD
+ZACHARY 70791
+(30.659091, -91.157363)"
+46,Cunard Avenue Park,Neighborhood,2290 CUNARD AVE,BATON ROUGE,70807,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,"2290 CUNARD AVE
+BATON ROUGE 70807
+(30.552928, -91.170598)"
+73,Greenwood Community Park,Community,13350 SCOTLAND-ZACHARY HWY,BAKER,70714,1,,,,1,1,,1,,,,,,,,,,8,,1,1,,,1,1,,,,,1,,,,,"13350 SCOTLAND-ZACHARY HWY
+BAKER 70714"
+50,Droze Road Park,Neighborhood,7700 DROZE RD,GREENWELL SPRINGS,70739,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,"7700 DROZE RD
+GREENWELL SPRINGS 70739
+(30.521181, -91.005945)"
+111,Magnolia Cemetery,Neighborhood,422 N 19TH ST,BATON ROUGE,70802,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"422 N 19TH ST
+BATON ROUGE 70802
+(30.450894, -91.16934)"
+22,Boulevard de Province Park,Neighborhood,1717 BOULEVARD DE PROVINCE,BATON ROUGE,70816,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,"1717 BOULEVARD DE PROVINCE
+BATON ROUGE 70816
+(30.439366, -91.045201)"
+86,Jacob Kornmeyer Park,Conservation,15500-15600 UND HOOPER RD,GREENWELL SPRINGS,70739,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15500-15600 UND HOOPER RD
+GREENWELL SPRINGS 70739
+(30.56204, -91.018071)"
+182,Zachary Community Park,Community,20055 OLD SCENIC HWY,ZACHARY,70791,1,,,,,1,,,,,2,,,,,,,,,,,,,1,1,1,,,,,,,,,"20055 OLD SCENIC HWY
+ZACHARY 70791
+(30.649828, -91.193084)"
+49,Doyle's Bayou Park,Neighborhood,7801 PORT HUDSON-PRIDE RD,SLAUGHTER,70777,,,,,1,,,,,,,5,,,,,,,,,,,,1,,,,,,,,,,,"7801 PORT HUDSON-PRIDE RD
+SLAUGHTER 70777"
+151,Saia Park,Neighborhood,855 N DONMOOR AVE,BATON ROUGE,70806,1,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,"855 N DONMOOR AVE
+BATON ROUGE 70806
+(30.457674, -91.118595)"
+171,Tristian Avenue Park,Neighborhood,5209 TRISTIAN AVE,BAKER,70714,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"5209 TRISTIAN AVE
+BAKER 70714
+(30.599195, -91.143545)"
+18,Bird Station Park,Neighborhood,2623 MICHELLI DR,BATON ROUGE,70805,,,,,1,,,,,,1,1,,,,,1,,,,,,,,,,,,,,,,,,"2623 MICHELLI DR
+BATON ROUGE 70805
+(30.47245, -91.127224)"
+140,Pride Park,Neighborhood,16440 PORT HUDSON-PRIDE RD,PRIDE,70770,1,,,,1,1,,,,,,,1,,,,1,,,,,,,,,,,,,,,,,,"16440 PORT HUDSON-PRIDE RD
+PRIDE 70770
+(30.693097, -90.982117)"
+68,Frenchtown Road Conservation Area,Conservation,17819 FRENCHTOWN RD,BATON ROUGE,70819,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"17819 FRENCHTOWN RD
+BATON ROUGE 70819"
+78,Hartley/Vey Sports Park,Special Facility,2615 OAK VILLA BLVD,BATON ROUGE,70814,,,,,,1,,,,,1,,8,,,,,,,,,,,1,,,,,,,,,,,"2615 OAK VILLA BLVD
+BATON ROUGE 70814"
+16,Belfair Park,Neighborhood,4390 FAIRFIELDS AVE,BATON ROUGE,70802,1,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,"4390 FAIRFIELDS AVE
+BATON ROUGE 70802
+(30.467461, -91.146632)"
+37,"Clifford T. Seymour, Sr. Park",Neighborhood,12000 SCOTLAND-ZACHARY HWY,BATON ROUGE,70807,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,"12000 SCOTLAND-ZACHARY HWY
+BATON ROUGE 70807"
+1,Acadian Thruway Park,Neighborhood,2751 N ACADIAN THWY W,BATON ROUGE,70805,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"2751 N ACADIAN THWY W
+BATON ROUGE 70805
+(30.472841, -91.156558)"
+74,Gus Young Park,Neighborhood,4201 GUS YOUNG AVE,BATON ROUGE,70802,1,,,,1,,1,,,1,,,1,,,,,,,,,,,,,,,,,,,,,,"4201 GUS YOUNG AVE
+BATON ROUGE 70802
+(30.462026, -91.146972)"
+147,Riverbend Park,Neighborhood,5800 RIVERBEND LAKES DR,BATON ROUGE,70820,,,,,1,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,"5800 RIVERBEND LAKES DR
+BATON ROUGE 70820
+(30.385789, -91.202347)"
+76,Harding Street Park,Neighborhood,4037 HARDING ST,BAKER,70714,,,,,1,1,,,,,,2,1,,,,1,,,,,,,,,,,,,,,,,,"4037 HARDING ST
+BAKER 70714
+(30.583646, -91.157239)"
+126,North 14th Street Park,Neighborhood,100 N 14TH ST,BATON ROUGE,70802,1,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,"100 N 14TH ST
+BATON ROUGE 70802
+(30.447838, -91.17504)"
+162,Spanish Town Park,Neighborhood,1300 SPANISH TOWN RD,BATON ROUGE,70802,,,,,1,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,"1300 SPANISH TOWN RD
+BATON ROUGE 70802
+(30.454976, -91.176163)"
+80,Hooper Road Park,Neighborhood,6261 GUYNELL DR,BATON ROUGE,70811,1,,,,1,4,,,,1,,1,2,,,,,,,,,,,,,,,,1,,,1,,,"6261 GUYNELL DR
+BATON ROUGE 70811
+(30.533643, -91.125356)"
+9,Baker Park,Neighborhood,4331 JEFFERSON ST,BAKER,70714,,,,,1,1,,,,,,1,3,,,,,,,,,,,,,,,,,,,,,,"4331 JEFFERSON ST
+BAKER 70714
+(30.590626, -91.153925)"
+13,Baton Rouge Zoo,Special Facility,3601 THOMAS RD,BATON ROUGE,70807,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3601 THOMAS RD
+BATON ROUGE 70807
+(30.558921, -91.156669)"
+132,Old Hammond Highway Park,Neighborhood,8900 OLD HAMMOND HWY,BATON ROUGE,70806,,,,,1,,,,,,,,,,,,1,,,,,,,,,1,,,,1,,,,,"8900 OLD HAMMOND HWY
+BATON ROUGE 70806
+(30.430937, -91.087887)"
+82,Hunters Point Drive Park,Neighborhood,4366 HUNTERS POINT DR,ZACHARY,70791,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4366 HUNTERS POINT DR
+ZACHARY 70791"
+144,Red Oaks Park,Neighborhood,2100 GREEN OAK DR,BATON ROUGE,70815,1,,,,1,,,,,,,,1,,,,1,,,,,,,,,,,,,,,,,,"2100 GREEN OAK DR
+BATON ROUGE 70815
+(30.468118, -91.0633)"
+17,Ben Burge Park,Neighborhood,9350 ANTIGUA DR,BATON ROUGE,70810,1,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,"9350 ANTIGUA DR
+BATON ROUGE 70810
+(30.346769, -91.125847)"
